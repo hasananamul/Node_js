@@ -1,0 +1,1 @@
+Hello node js _ This is first node js Added new data by append Syncronus method

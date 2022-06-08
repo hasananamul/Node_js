@@ -1,0 +1,48 @@
+{
+"products" : [
+      {
+            "id" : 1,
+            "title" : "Hasan Anamul",
+            "categories" : "Fashion",
+            "desc" : "This is a products description",
+            "img" : "https://thumbs.dreamstime.com/b/woman-choosing-shampoo-store-happy-smiling-adult-girl-supermarket-57168782.jpg"
+      },
+      {
+            "id" : 1,
+            "title" : "Hasan Anamul",
+            "categories" : "Fashion",
+            "desc" : "This is a products description",
+            "img" : "https://thumbs.dreamstime.com/b/woman-choosing-shampoo-store-happy-smiling-adult-girl-supermarket-57168782.jpg"
+      },
+      {
+            "id" : 1,
+            "title" : "Hasan Anamul",
+            "categories" : "Fashion",
+            "desc" : "This is a products description",
+            "img" : "https://thumbs.dreamstime.com/b/woman-choosing-shampoo-store-happy-smiling-adult-girl-supermarket-57168782.jpg"
+      }
+],
+"categories" : [
+      {
+            "cat_name" : "Fashion"
+      },
+      {
+            "cat_name" : "Food"
+      },
+      {
+            "cat_name" : "Woomen"
+      }
+],
+"tags" : [
+      {
+            "tag_name" : "Pants"
+      },
+      {
+            "tag_name" : "Shari"
+      },
+      {
+            "tag_name" : "Shoe"
+      }
+]
+
+}
